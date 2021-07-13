@@ -89,9 +89,7 @@ getClinic();
 									<option value="THIS_MONTH">Monthly</option>
 									<option value="THIS_QUARTER">Quarterly</option>
 									<option value="THIS_SIX_MONTH">Six-monthly</option>
-									<option value="6">Yearly</option>
-									<option value="7">Seven</option>
-									<option value="8">Eight</option>
+									<option value="LAST_52_WEEKS">Yearly</option>
 								</select>
 							</div>
 						</div>
